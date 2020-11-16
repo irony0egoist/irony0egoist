@@ -11,7 +11,8 @@
 <a href="">
   <img align="left" alt="ir0ny's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="">ir0ny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="">
+<img align="left" alt="ir0ny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="">
   <img align="left" alt="ir0ny's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
@@ -47,13 +48,23 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-🚧 最近圈内最火的项目:
+🚧 Recent popular Project:
 
-🏆 整理域内攻击方法
-🌸 Completed 0 tasks today
-🗓 Completed 4 tasks this week
-✅ Completed 407 tasks so far
-⏳ Longest streak is 10 days
+🏆 <a href="https://github.com/Freakboy/CobaltStrike">
+  CobaltStrike反编译源码
+</a> <br />
+🌸 <a href="https://github.com/zbnio/zbn">
+  ZBN SOAR 安全编排与自动化响应平台
+</a>  <br />
+🗓 <a href="https://github.com/Adminisme/ServerScan">
+  ServerScan GO网络扫描、服务探测工具
+</a>  <br />
+✅ <a href="https://github.com/chriskaliX/AD-Pentest-Notes">
+  内网渗透学习笔记 (腾讯蓝军-红蓝对抗之Windows内网渗透)
+</a>  <br />
+⏳ <a href="">
+  暂定
+</a>  <br />
 
 🥷🏻 最新文章:
 
