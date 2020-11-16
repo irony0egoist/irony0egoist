@@ -5,6 +5,17 @@
 <a href="https://twitter.com/ipo_3">
   <img align="left" alt="ir0ny | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="">
+  <img align="left" alt="ir0ny's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="">
+  <img align="left" alt="ir0ny's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="">ir0ny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="">
+  <img align="left" alt="ir0ny's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
 
 
@@ -13,7 +24,7 @@
 <br />
 
 无名的安全小卒  🚀  一名伪coder🙍🏻‍💻♂️ 爱好研究安全技术 <br />
-现阶段掌握的：
+现阶段掌握的： <br/>
 🪞 WEB漏洞 <br/>
 🔖 漏洞复现 <br/>
 🧸 工具编写 <br/>
@@ -27,7 +38,7 @@
 - 🌱 正在学习安全内网渗透及代码审计; 
 - 💬 打游戏最菜;
 - 📫 联系我: [@ir0ny](https://twitter.com/ipo_3);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📝[Resume]()
 
 **Languages and Tools:**  
 
@@ -35,6 +46,27 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+🚧 最近圈内最火的项目:
+
+🏆 整理域内攻击方法
+🌸 Completed 0 tasks today
+🗓 Completed 4 tasks this week
+✅ Completed 407 tasks so far
+⏳ Longest streak is 10 days
+
+🥷🏻 最新文章:
+
+🗓 <a href="https://blog.csdn.net/irony0egoist/article/details/109493103">
+  WINDOWS认证机制之KERBEROS
+</a>
+🏆 <a href="https://blog.csdn.net/irony0egoist/article/details/108843728">
+  WINDOWS认证机制之NTLM
+</a>
+🌸 <a href="https://blog.csdn.net/irony0egoist/article/details/108889403">
+  抓取连接文件服务器的NET NTLM Hash
+</a>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
