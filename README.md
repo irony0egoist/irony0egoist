@@ -50,13 +50,12 @@
 
 **Recent popular Project:**
 
-
+🦎 <a href="https://github.com/byt3bl33d3r/OffensiveNim">
+  OffensiveNim之偏僻语言shellcode加载器
+</a> <br />
 🦔<a href="https://github.com/sting8k/BurpSuite_403Bypasser">
   BurpSuite插件检测403页面
 </a>  <br />
-🦎 <a href="https://github.com/Freakboy/CobaltStrike">
-  CobaltStrike反编译源码
-</a> <br />
 🦂<a href="https://github.com/zbnio/zbn">
   ZBN SOAR 安全编排与自动化响应平台
 </a>  <br />
