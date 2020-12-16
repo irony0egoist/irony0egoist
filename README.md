@@ -56,11 +56,11 @@
 🦔<a href="https://github.com/sting8k/BurpSuite_403Bypasser">
   BurpSuite插件检测403页面
 </a>  <br />
-🦂<a href="https://github.com/zbnio/zbn">
-  ZBN SOAR 安全编排与自动化响应平台
+🦂<a href="https://github.com/C4o/Juggler">
+  Juggler一个也许能骗到黑客的系统
 </a>  <br />
-🐙<a href="https://github.com/Adminisme/ServerScan">
-  ServerScan GO网络扫描、服务探测工具
+🐙<a href="https://github.com/r0ysue/r0capture">
+  r0capture安卓应用层抓包通杀脚本
 </a>  <br />
 🦏<a href="https://github.com/chriskaliX/AD-Pentest-Notes">
   内网渗透学习笔记 (腾讯蓝军-红蓝对抗之Windows内网渗透)
