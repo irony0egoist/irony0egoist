@@ -56,7 +56,7 @@
 🦔<a href="https://github.com/potats0/javaSerializationTools">
   Java反序列化漏洞工具
 </a>  <br />
-🦂<a href="https://github.com/fabpot/local-php-security-checker>
+🦂<a href="https://github.com/fabpot/local-php-security-checker">
   PHP代码漏洞检测工具
 </a>  <br />
 🐙<a href="https://github.com/r0ysue/r0capture">
