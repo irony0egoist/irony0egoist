@@ -50,20 +50,20 @@
 
 **Recent popular Project:**
 
-🦎 <a href="https://github.com/byt3bl33d3r/OffensiveNim">
-  OffensiveNim之偏僻语言shellcode加载器
+🦎 <a href="https://github.com/nccgroup/nccfsas/tree/main/Tools/Squeak">
+  MSSQL横向移动
 </a> <br />
-🦔<a href="https://github.com/sting8k/BurpSuite_403Bypasser">
-  BurpSuite插件检测403页面
+🦔<a href="https://github.com/potats0/javaSerializationTools">
+  Java反序列化漏洞工具
 </a>  <br />
-🦂<a href="https://github.com/C4o/Juggler">
-  Juggler一个也许能骗到黑客的系统
+🦂<a href="https://github.com/fabpot/local-php-security-checker>
+  PHP代码漏洞检测工具
 </a>  <br />
 🐙<a href="https://github.com/r0ysue/r0capture">
   r0capture安卓应用层抓包通杀脚本
 </a>  <br />
-🦏<a href="https://github.com/chriskaliX/AD-Pentest-Notes">
-  内网渗透学习笔记 (腾讯蓝军-红蓝对抗之Windows内网渗透)
+🦏<a href="https://github.com/EdgeSecurityTeam/Vulnerability">
+  棱角社区EXP合集
 </a>  <br />
 
 
