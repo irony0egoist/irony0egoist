@@ -13,7 +13,7 @@
 
 Life is Strange <br />
 
-  <img align="right" alt="GIF" src="https://github.com/irony0egoist/irony0egoist/blob/main/code.gif?raw=true" width="250" height="160" />
+  <img align="right" alt="GIF" src="https://github.com/irony0egoist/irony0egoist/blob/main/code.gif?raw=true" width="375" height="240" />
 
 **Talking about Personal Stuffs:**
 
