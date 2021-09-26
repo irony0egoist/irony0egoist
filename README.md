@@ -5,41 +5,22 @@
 <a href="https://twitter.com/ipo_3">
   <img align="left" alt="ir0ny | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
-  <img align="left" alt="ir0ny's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="">
-  <img align="left" alt="ir0ny's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="">
-<img align="left" alt="ir0ny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="">
-  <img align="left" alt="ir0ny's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=irony0egoist)
 
 <br />
 
-无名的安全小卒  🚀  一名伪coder🙍🏻‍💻♂️ 爱好研究安全技术 <br />
-现阶段掌握的： <br/>
-🪞 WEB漏洞 <br/>
-🔖 漏洞复现 <br/>
-🧸 工具编写 <br/>
-🎏 红队技能 <br />
+Life is Strange <br />
 
   <img align="right" alt="GIF" src="https://github.com/irony0egoist/irony0egoist/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 平时使用Java、Python、Go;
-- 🌱 正在学习安全内网渗透及代码审计; 
-- 💬 打游戏最菜;
-- 📫 联系我: [@ir0ny](https://twitter.com/ipo_3);
-- 📝[Resume]()
+- 👨🏽‍💻 Nothing  ;
+- 🌱 Learning ;
+- 💬 Chasing  ;
+- 📫 Walking  ;
 
 **Languages and Tools:**  
 
@@ -47,50 +28,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-**Recent popular Project:**
-
-🦎 <a href="https://github.com/nccgroup/nccfsas/tree/main/Tools/Squeak">
-  MSSQL横向移动
-</a> <br />
-🦔<a href="https://github.com/potats0/javaSerializationTools">
-  Java反序列化漏洞工具
-</a>  <br />
-🦂<a href="https://github.com/fabpot/local-php-security-checker">
-  PHP代码漏洞检测工具
-</a>  <br />
-🐙<a href="https://github.com/r0ysue/r0capture">
-  r0capture安卓应用层抓包通杀脚本
-</a>  <br />
-🦏<a href="https://github.com/EdgeSecurityTeam/Vulnerability">
-  棱角社区EXP合集
-</a>  <br />
-
-
-🥷🏻 **My newest Article:**
-
-🐣 <a href="https://blog.csdn.net/irony0egoist/article/details/109493103">
-  WINDOWS认证机制之KERBEROS
-</a>
-🦄 <a href="https://blog.csdn.net/irony0egoist/article/details/108843728">
-  WINDOWS认证机制之NTLM
-</a>
-🐡 <a href="https://blog.csdn.net/irony0egoist/article/details/108889403">
-  抓取连接文件服务器的NET NTLM Hash
-</a>
-
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-Python       🕐 10 hr 20 mins    ███████████▒░░░░░░░░░░░░░   71.51 % 
-Go           🕒 2  hr 12 mins    ████████░░░░░░░░░░░░░░░░░   15.22 % 
-Java         🕣 50 mins          ███░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Git Config   🕣 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Other        🕥 26 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
-<!--END_SECTION:waka-->
 
 
 
