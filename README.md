@@ -17,10 +17,10 @@ Life is Strange <br />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Nothing
-- 🌱 Learning
-- 📫 Walking
-- 💬 Chasing
+- 👨🏽‍💻 Security Researcher
+- 🌱 PostExploitation Researcher
+- 📫 Tool Maker
+- 💬 APEX Player
 
 **Languages and Tools:**  
 
